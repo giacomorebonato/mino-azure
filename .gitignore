@@ -20,7 +20,7 @@ project.lock.json
 /secrets
 /data
 **/node_modules
-**/*.ts
+**/*.js
 .secrets
 appsettings.json
 local.settings.json

@@ -14,3 +14,6 @@ I like to use:
 1. `npm install` to install npm dependencies
 2. `F5` to start visual studio code debugging
 3. `http://localhost:7071/api/mino-hook` hit the end point
+
+## Deploy
+...
